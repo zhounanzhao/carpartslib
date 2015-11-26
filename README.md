@@ -1,7 +1,7 @@
 # carpartslib
 
-一个汽车配件图片库
-A car parts image lib
+一个汽车配件图片库，正在建设中，图片来自百度搜索引擎。
+A car parts image lib,still being building,images are from baidu image searcher.
 
 遵循以下的编码规则
 
